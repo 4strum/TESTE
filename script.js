@@ -25,3 +25,4 @@ modeSwitch.addEventListener('click', function () {
 });
 
 const teste = "aa"
+const teste2 ="bb"
